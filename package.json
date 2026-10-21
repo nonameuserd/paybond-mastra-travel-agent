@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@paybond/kit": "^0.12.17",
-    "@mastra/core": "^1.49.0",
+    "@mastra/core": "^1.78.0",
     "zod": "^4.2.0"
   },
   "devDependencies": {
